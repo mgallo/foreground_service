@@ -1,5 +1,5 @@
 #import "ForegroundService.h"
-#import <flutter_foreground_plugin/flutter_foreground_plugin-Swift.h>
+#import <foreground_service/foreground_service-Swift.h>
 
 @implementation ForegroundService
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
